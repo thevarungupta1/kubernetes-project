@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: taskmaster
-          image: kunalgohrani/microservicespythonapp:latest
+          image: varungupta2809/microservicespythonapp:latest
           ports:
             - containerPort: 5000
           imagePullPolicy: Always
